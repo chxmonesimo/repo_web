@@ -5,8 +5,8 @@ date: '2021-05-21'
 slug: []
 categories: []
 tags: []
-image: ''
-showonlyimage: no
+image: '/portfolio/2021-05-21-firstpost/firstpost_files/IMG_6577.jpeg'
+showonlyimage: yes
 weight: 1
 
 ---
@@ -17,3 +17,5 @@ Dosmilveintiuno
 Dosmilveintiuno
 
 when we all fall sleep, where do we go?
+
+![](/portfolio/2021-05-21-firstpost/firstpost_files/IMG_5897.jpeg)
