@@ -1,13 +1,13 @@
 baseurl: https://cafecolado.netlify.app/
-title: Onésimo Galaz García
+title: VemosDatos
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
-  copyright: '&copy;2016 Your name or company'
+  copyright: '&copy;2021 Onésimo Galaz'
   description: Describe your website
-  email: you@yoursite.com
+  email: onesimogalaz@gmail.com
   navlinks:
     - home: yes
       name: Home
@@ -16,23 +16,24 @@ params:
       url: about/
     - name: Get in touch
       url: contact/
+    - name: Publicaciones
+      url: post/      
   sidebarAbout:
-    - I am a creative illustrator and graphic designer with more than 10 years of
-      experience.
-    - Originally from Toronto, currently based in London.
+    - Contamos historias con base en la evidencia.
+    - Hermosillo, Sonora, México.
   social:
-    email: email@example.com
-    facebook: full page or profile url in facebook
-    github: full profile url in github
-    gitlab: full profile url in gitlab
-    googleplus: full profile url in googleplus
-    instagram: full profile url in instagram
-    linkedin: full profile url in linkedin
-    stackoverflow: full profile url in stackoverflow
-    twitter: full profile url in twitter
-    whatsapp: wa.me service link
-    youtube: full profile url in youtube
-  style: default
+    #email: email@example.com
+    #facebook: full page or profile url in facebook
+    #github: full profile url in github
+    #gitlab: full profile url in gitlab
+    #googleplus: full profile url in googleplus
+    #instagram: full profile url in instagram
+    #linkedin: full profile url in linkedin
+    #stackoverflow: full profile url in stackoverflow
+    twitter: https://twitter.com/chxmonesimo
+    #whatsapp: wa.me service link
+    #youtube: full profile url in youtube
+  style: sea
 
 markup:
   goldmark:
