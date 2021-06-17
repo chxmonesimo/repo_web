@@ -1,21 +1,22 @@
 ---
-title: firstpost
-author: R package build
+title: "firstpost"
+author: "Onésimo Galaz"
 date: '2021-05-21'
-slug: []
+slug: "Bienvenidos!"
+description: "Aqui estoy, finalamente empezando mi blog." 
 categories: []
 tags: []
 image: '/portfolio/2021-05-21-firstpost/firstpost_files/IMG_6577.jpeg'
 showonlyimage: yes
+type: "post"
 weight: 1
-
 ---
  
 Dosmilveintiuno
 <!--more-->
 
-Dosmilveintiuno
+Dosmilveintiuno 
 
 when we all fall sleep, where do we go?
 
-![](/portfolio/2021-05-21-firstpost/firstpost_files/IMG_5897.jpeg)
+![](/portfolio/2021-05-21-firstpost/firstpost_files/IMG_5897.jpeg){width=30% height=30%}

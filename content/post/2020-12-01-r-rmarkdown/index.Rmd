@@ -1,7 +1,11 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
+title: "Bienvenidos a @vemosdatos"
+author: "Onésimo Galaz"
 date: 2020-12-01T21:13:14-05:00
+type: "post"
+description: "Este es mi primer post"
+image: "/portfolio/2021-05-21-firstpost/firstpost_files/IMG_6577.jpeg"
+showonlyimage: yes
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -10,7 +14,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown amonsay
+R Markdown amonsay
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -35,3 +39,8 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+```{r fig-margin, fig.margin=TRUE}
+plot(cars)
+```
+

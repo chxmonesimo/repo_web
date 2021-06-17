@@ -1,21 +1,25 @@
 ---
 date: "2016-11-05T21:05:33+05:30"
-title: About me
+title: Onésimo Galaz
 ---
+<img src="/about/_index_files/IMG_5897.jpeg" alt="" width="30%" height="30%" align="left"/>
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Hola! soy biólogo y además de mi afición por el ecosistema de las islas del cielo, me apasiona crear gráficos como un medio para la difusión de la ciencia.
 
-![This is me][1]
+Desde 2012 encontré una comunidad creciente en twitter de **#rstats** y **#rspatial** donde es común el intercambio de ideas y compartir soluciones a cuestiones típicas de R, un software libre de análisis de bases de datos. Tanto en mi tesis de licenciatura como en la de maestría analicé mis datos e hice todas las graficas y mapas en R.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Este ejercicio académico destapó mi creatividad por la visualización de datos, tanto que ahora aplico mis ideas usando datos disponibles en la web y así me permito experimentar en **#ggplot** y generar información visual para compartir información que cura.
 
-#### Education
+Como entusiasta de la cienca de datos he descubierto en la visualización de datos una herramienta impresindible para compartir un mensaje y darle contexto a eventos como fenomenos naturales, sociales y económicos. Por esta razón en este espacio web [vemosdatos](https://twitter.com/chxmonesimo)
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+##### Formación
+* Licenciado en Biología, [*Universidad de Sonora*](http://www.biologia.uson.mx/)
+* Maestría en Ciencias Biológicas, [*Universidad Nacional Autónoma de México*](http://pcbiol.posgrado.unam.mx/)
 
-[1]: /img/about.jpg
+##### Contacto
+* <i class="fa fa-envelope"></i> onesimogalaz@gmail.com
+* <i class="fa fa-twitter"></i> @[chxmonesimo](https://twitter.com/chxmonesimo)
+* <i class="fa fa-file"></i> [Curriculum-Vitae_Galaz-García](no)
+ 
