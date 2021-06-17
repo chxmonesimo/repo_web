@@ -7,7 +7,7 @@ disqusShortname: ''
 googleAnalytics: ''
 params:
   copyright: '&copy;2021 Onésimo Galaz'
-  description: "Este sitio se comparte información visual"
+  description: "Este sitio se comparte información visual, graficas"
   email: onesimogalaz@gmail.com
   navlinks:
     - home: yes
@@ -34,7 +34,7 @@ params:
     twitter: https://twitter.com/chxmonesimo
     #whatsapp: wa.me service link
     #youtube: full profile url in youtube
-  style: sea
+  style: blue
 
 markup:
   goldmark:
