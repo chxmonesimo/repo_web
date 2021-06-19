@@ -21,5 +21,5 @@ Como entusiasta de la cienca de datos he descubierto en la visualización de dat
 ##### Contacto
 * <i class="fa fa-envelope"></i> onesimogalaz@gmail.com
 * <i class="fa fa-twitter"></i> @[chxmonesimo](https://twitter.com/chxmonesimo)
-* <i class="fa fa-file"></i> [Curriculum-Vitae_Galaz-García](no)
+* <i class="fa fa-file"></i> [Curriculum-Vitae_Galaz-García](https://cafecolado.netlify.app/files/Galaz-Garcia_CV.pdf)
  
