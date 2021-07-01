@@ -1,22 +1,30 @@
 ---
-title: "firstpost"
+title: "VemosDatos"
 author: "Onésimo Galaz"
 date: '2021-05-21'
 slug: "Bienvenidos!"
 description: "Aqui estoy, finalamente empezando mi blog." 
 categories: []
 tags: []
-image: '/portfolio/2021-05-21-firstpost/firstpost_files/IMG_6577.jpeg'
+image: '/portfolio/2021-05-21-firstpost/firstpost_files/logo_10.png'
 showonlyimage: yes
 type: "post"
 weight: 1
 ---
- 
-Dosmilveintiuno
 <!--more-->
 
-Dosmilveintiuno 
+##### Bienvenidos!
+<!--more-->
 
-when we all fall sleep, where do we go?
+Hola, qué bueno estas por aqui en este espacio donde compartimos graficos, mapas y demás visualizaciones a partir de bases de datos disponibles en la web. Para ello utilizo el softwere libre **R**, principalmente en ambiente de **#ggplot**.
+<!--more-->
+Te invito a que estes al tanto en nuestras redes sociales para que cheques nuestro próximo contenido porque es lo que hacemos aqui... VemosDatos.
 
-![](/portfolio/2021-05-21-firstpost/firstpost_files/IMG_5897.jpeg){width=30% height=30%}
+[<i class="fa fa-twitter"></i> ](https://twitter.com/chxmonesimo)
+[<i class="fa fa-instagram"></i>](https://twitter.com/chxmonesimo)
+[<i class="fa fa-facebook"></i>](https://twitter.com/chxmonesimo)
+
+[**Onésimo Galaz**](https://cafecolado.netlify.app/about/)
+
+
+![](/portfolio/2021-05-21-firstpost/firstpost_files/logo_10.png){width=100% height=100%}

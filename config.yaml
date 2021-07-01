@@ -20,15 +20,15 @@ params:
   #  - name: Publicaciones
   #   url: post/      
   sidebarAbout:
-    - Es un espacio de difusión para compartir información gráfica mediante la visualización de datos.
+    - Es un espacio para compartir información mediante la visualización de datos.
     - <i class="fa fa-map-marker"></i> Hermosillo, Sonora, México.
   social:
     #email: email@example.com
-    #facebook: full page or profile url in facebook
+    facebook: full page or profile url in facebook
     #github: full profile url in github
     #gitlab: full profile url in gitlab
     #googleplus: full profile url in googleplus
-    #instagram: full profile url in instagram
+    instagram: full profile url in instagram
     #linkedin: full profile url in linkedin
     #stackoverflow: full profile url in stackoverflow
     twitter: https://twitter.com/chxmonesimo
