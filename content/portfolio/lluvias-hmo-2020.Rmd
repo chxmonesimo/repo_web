@@ -29,3 +29,8 @@ La gráfica de anomalías no me dejará mentir si les digo que las inesperadas l
 
 * Datos: CONAGUA (1966-2017) y [RUOA-UNAM](https://www.ruoa.unam.mx/index.php?page=estaciones&id=6) (2018-2020)
 * Gráfica por: [Onésimo Galaz](https://cafecolado.netlify.app/about/)
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1316627552270598144')
+```
+
