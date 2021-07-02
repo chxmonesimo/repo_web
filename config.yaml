@@ -1,4 +1,4 @@
-baseurl: https://cafecolado.netlify.app/
+baseurl: https://www.vemosdatos.com/
 title: VemosDatos
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
@@ -24,14 +24,14 @@ params:
     - <i class="fa fa-map-marker"></i> Hermosillo, Sonora, México.
   social:
     #email: email@example.com
-    facebook: full page or profile url in facebook
+    facebook: https://www.facebook.com/VemosDatos-103611781989423
     #github: full profile url in github
     #gitlab: full profile url in gitlab
     #googleplus: full profile url in googleplus
     instagram: full profile url in instagram
     #linkedin: full profile url in linkedin
     #stackoverflow: full profile url in stackoverflow
-    twitter: https://twitter.com/chxmonesimo
+    twitter: https://twitter.com/VemosDatos
     #whatsapp: wa.me service link
     #youtube: full profile url in youtube
   style: blue
