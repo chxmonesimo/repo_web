@@ -21,7 +21,7 @@ Hay que decir, sin lugar a dudas, que la precipitación anual en Hermosillo es e
 
 #### Lluvias en el 2020 vs el promedio anual: lo (in)esperado
 <img src="/portfolio/lluvias-hmo-2020_files/lluvias_q1.png" alt="" width="60%" height="60%" align="left"/>
-Después de algunos años (muy buenos) con lluvias que superon el promedio de largo plazo de 361.3 mm anual se nos viene el 2020 con todo y malagüero. En este año la [RUOA-UNAM](https://www.ruoa.unam.mx/index.php?page=estaciones&id=6) registró en Hermosillo un acumulado de 144.1 mm de precipitación, lo que significa que llovió menos del 40% del promedio esperado, y nomás. 
+Después de algunos años muy buenos (2017-2019) con lluvias que superaron el promedio de largo plazo de 361.3 mm anual se nos viene el 2020 con todo y malagüero. En este año la [RUOA-UNAM](https://www.ruoa.unam.mx/index.php?page=estaciones&id=6) registró en Hermosillo un acumulado de 144.1 mm de precipitación, lo que significa que llovió menos del 40% del promedio esperado, y nomás. 
 
 #### Anomalía de precipitación en Hermosillo en 2020
 <img src="/portfolio/lluvias-hmo-2020_files/lluvias_p1.png" alt="" width="60%" height="60%" align="left"/>
