@@ -14,7 +14,7 @@ weight: 1
 <!--more-->
 ##### Bienvenidos!
 <!--more-->
-
+![](/portfolio/2021-05-21-firstpost/firstpost_files/logo_vd_4.png)
 Hola, qué bueno estas por aquí en este espacio donde compartimos gráficos, mapas y demás visualizaciones a partir de bases de datos disponibles en la web. Para ello utilizo el softwere libre **R**, principalmente en ambiente de **#ggplot**.
 <!--more-->
 Te invito a que estes al tanto en nuestras redes sociales para que veas nuestro próximo contenido, porque es lo que hacemos aquí... VemosDatos.
