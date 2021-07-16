@@ -15,7 +15,7 @@ weight: 2
 
 #### Variación anual de las lluvias en Hermosillo
 <img src="/portfolio/lluvias-hmo-2020_files/lluvias_e1.png" alt="" width="100%" height="100%" align="center"/>
-Hay que decir, sin lugar a dudas, que la precipitación anual en Hermosillo es errática e inestable y este comportamiento es característico de zonas áridas, donde la lluvia es escasa y además pueden haber eventos locales que perciban más precipitación que en otros lugares cercanos.
+Hay que decir, sin lugar a dudas, que la precipitación anual en Hermosillo es errática e inestable y este comportamiento es característico de zonas áridas, donde la lluvia es escasa y además pueden haber eventos locales (tromba o manga) que perciban más precipitación que en otros lugares cercanos.
 
 
 
@@ -25,7 +25,7 @@ Después de algunos años muy buenos (2017-2019) con lluvias que superaron el pr
 
 #### Anomalía de precipitación en Hermosillo en 2020
 <img src="/portfolio/lluvias-hmo-2020_files/lluvias_p1.png" alt="" width="60%" height="60%" align="left"/>
-La gráfica de anomalías no me dejará mentir si les digo que las inesperadas lluvias de marzo prometian un año de abundancía, que si que fue un alivio para pasar la *temporada seca* de marzo, abril y mayo (y algo de junio). Las lluvias llegaron pero menos de lo esperado. No alcanzó. Esto significó para los productores pecuarios "*una muerte anunciada... de su ganado"*. Ganado ahora perdido. Y así nos tocó y así la sufrimos, sin tregua ni favor, un día en zonas áridas a la vez.
+La gráfica de anomalías no me dejará mentir si les digo que las inesperadas lluvias de marzo prometían un año de abundancia, y si que fue un alivio para pasar la *temporada seca* de marzo, abril y mayo (y algo de junio). Pero las lluvias del monsón de verano llegaron pero con menos agua de lo esperado. No alcanzó. Esto significó para los productores pecuarios "*una muerte anunciada... de su ganado"*. Ganado ahora perdido. Y así nos tocó y así la sufrimos, sin tregua ni favor, un día en zonas áridas a la vez.
 
 #### -
 * Datos: CONAGUA (1966-2017) y [RUOA-UNAM](https://www.ruoa.unam.mx/index.php?page=estaciones&id=6) (2018-2020)
