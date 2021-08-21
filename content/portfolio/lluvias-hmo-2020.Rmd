@@ -9,7 +9,7 @@ tags: []
 image: '/portfolio/lluvias-hmo-2020_files/lluvias_promo.png'
 showonlyimage: yes
 type: "post"
-weight: 3
+weight: 2
 ---
 > Junto con la pandemia del COVID-19, la escases de lluvias en el nororeste de México transtornó la economía, bienestar y futuro de las familias de la región. En este espacio web vemosdatos sobre la precipitación histórica de la capital sonorense, Hermosillo.
 

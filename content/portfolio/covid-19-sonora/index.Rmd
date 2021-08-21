@@ -9,7 +9,7 @@ tags: []
 image: '/portfolio/covid-19-sonora/images/IMG_7150 2.jpg'
 showonlyimage: yes
 type: "post"
-weight: 2
+weight: 3
 ---
 
 #
@@ -48,5 +48,7 @@ weight: 2
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1410792943762350086')
 ```
+
+
 
 
