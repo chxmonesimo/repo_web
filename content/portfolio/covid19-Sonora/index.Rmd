@@ -9,7 +9,7 @@ tags: []
 image: '/portfolio/covid-19-sonora/images/IMG_7152.jpg'
 showonlyimage: yes
 type: "post"
-weight: 3
+weight: 1
 ---
 
 #
