@@ -1,0 +1,52 @@
+---
+title: "COVID-19 Sonora"
+author: 'Onésimo Galaz'
+date: '2021-08-21'
+slug: []
+description: " "
+categories: []
+tags: []
+image: '/portfolio/covid-19-sonora/images/IMG_7150 2.jpg'
+showonlyimage: yes
+type: "post"
+weight: 2
+---
+
+#
+> Con respeto a quienes han padecido las consecuencias de esta enfermedad, a continuación se presenta una serie de gráficos sobre los casos confirmados y de decesos debido a COVID-19.
+
+##### Aun con el hecho de que Sonora se encuentra en el repunto de la tercera ola de contagios, equiparable a las dos anteriores, es de reconocer que la vacunación que dio prioridad a los adultos mayores ha tenido un efecto de reducción en la tasa de decesos por coronavirus
+![](images/confirmados_vs_decesos.png)
+
+<br>
+
+##### La hospitalización de pacientes confirmados con COVID-19 se ha reducido en comparación con anteriores repuntes de contagios, con excepción en la incidencia de pacientes en estado crítico
+![](images/hospital_covid.png)
+
+<br>
+
+##### En Hermosillo se ha registrado la mayor cantidad de decesos por el virus SARS-CoV-2. Mientras que la incidencia del coronavirus que se observa en las tres olas de contagio presenta patrones similares entre si, actualmente, Sonora mantiene tendencia a la baja en la tasa de mortalidad. Un rasgo importante en la interpretación de estos datos es el efecto que ha tenido la vacunación en la disminución de la tasa de decesos en la entidad.
+![](images/municipios_covid.png)
+
+<br>
+
+##### En términos generales se ha registrado una mayor cantidad de decesos en hombres que en mujeres. Cabe mencionar que [las diferencias de la respuesta del sistema inmune entre sexos](https://www.nature.com/articles/s41586-020-2700-3.pdf) es un factor que incrementa la probabilidad de la severidad con la que se manifiesta la enfermedad, ya que el sistema inmunitario adaptativo de los hombres envejece mucho más rápido que el de las mujeres y además, las mujeres tienen un sistema inmunitario adaptativo muy robusto (muchos de cuyos genes se alojan en el cromosoma X)
+![](images/sex_covid.png)
+
+<br>
+
+##### La mayoría de los decesos en Sonora afectan a personas adultos mayores de 60+. Esto puede deberse a condiciones subyacentes que afectan a un gran número de personas mayores como padecer comorbilidades (diabetes, hipertensión, obesidad, tabquismo, etc.) y carecer de recursos suficiente para tener acceso a servicios de salud esenciales. El enfoque prioritario para la aplicación de la vacuna sobre este sector de la población ha reducido la mortalidad en hasta en un 75%
+![](images/edad_covid.png)
+
+
+<br>
+
+* Datos: [SSA Sonora](http://covid19.saludsonora.gob.mx/), [SSA Dirección General de Epidemiología -  Gobierno de México](https://www.gob.mx/salud/documentos/datos-abiertos-152127)
+* Gráficos por: [Onésimo Galaz](https://vemosdatos.com/about/)
+
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1410792943762350086')
+```
+
+
