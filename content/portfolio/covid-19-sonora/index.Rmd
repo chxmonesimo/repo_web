@@ -6,7 +6,7 @@ slug: []
 description: " "
 categories: []
 tags: []
-image: '/portfolio/covid-19-sonora/images/IMG_7150 2.jpg'
+image: '/portfolio/covid-19-sonora/images/IMG_7152.jpg'
 showonlyimage: yes
 type: "post"
 weight: 3
